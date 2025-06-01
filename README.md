@@ -1,8 +1,9 @@
 # Comparador-de-precios
-Comparador de precios de componentes informáticos.
+Computer component price comparison.
 
-Este proyecto tiene el objetivo el desarrollo de un sistema informático para comparar precios de distintas fuentes, 
-enfocado a componentes informáticos. El sistema se encarga de la conexión con las distintas fuentes de datos, y 
-devolverá en formato HTML los resultados encontrados. Se ejecutará en la nube en la plataforma Google App Engine.
+This project aims to develop a computer system to compare prices from different sources, 
+Focused on computer components. The system is responsible for connecting to various data sources, and 
+It will return the results found in HTML format. It will be executed in the cloud on the Google App Engine platform. 
 
-Dirección URL funcionando : http://isicomparadorprecios.appspot.com/
+
+URL : http://isicomparadorprecios.appspot.com/
